@@ -130,7 +130,7 @@ CREATE TABLE empleado (
     edad INT NOT NULL CHECK (edad BETWEEN 18 AND 100),
     url_foto VARCHAR(255), -- URL en cloud
     fecha_ingreso DATE DEFAULT CURRENT_DATE,
-    activo BOOLEAN DEFAULT FALSE -- El empleado necesita ser aprobado manualmente
+    activo BOOLEAN DEFAULT FALSE, -- El empleado necesita ser aprobado manualmente
     FOREIGN KEY (id_usuario) REFERENCES usuario(id_usuario),
     FOREIGN KEY (id_sexo) REFERENCES sexo(id_sexo),
     FOREIGN KEY (id_estado_civil) REFERENCES estado_civil(id_estado_civil),
