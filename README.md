@@ -15,6 +15,7 @@ El sistema organiza la información por **zonas**, **tipos de incidentes** y **u
 - Henry Erick Quispe Bojorquez  
 - Andre Stefano León De La Cruz  
 - Ronald Maihuire Becerra
+- Bojorquez Garcia Roberth Alex
 
 ---
 
