@@ -404,4 +404,21 @@ Estructura De la Base de Datos
 
 ![BASE DE DATOS](https://github.com/user-attachments/assets/3e3850ca-1091-425a-9db1-a86705d707f5)
 
+## 🚀 GloriaConnect - Backend (Grupo 4)
+
+Backend desarrollado para la plataforma GloriaConnect , orientado a la gestión de usuarios, empleados, reportes, incidencias y permisos dentro de la empresa Gloria . Este proyecto está diseñado para ser consumido tanto por una app móvil como por un sistema web BackOffice.
+
+## 📦 Tecnologías utilizadas
+
+Node.js: Runtime de ejecución del servidor 
+Express: Framework web para las rutas y controladores 
+TypeScript: Tipado estricto y robusto para un código más mantenible 
+TypeORM : ORM para interactuar con PostgreSQL
+PostgreSQL Motor de base de datos relacional 
+JWT: Mecanismo de autenticación por token 
+Bcrypt Hash seguro de contraseñas 
+
+
+
+
 
